@@ -142,3 +142,17 @@ p{
 .Questions p{
     color: black;
 }
+
+.simple-btn{
+    background-color: #1d3e6f;
+    color: #fff;
+    border: solid #1d3e6f 1px;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.container{
+    width: 100%;
+    background-color: #fff;
+    padding: 30px 0px;
+}
