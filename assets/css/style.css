@@ -116,6 +116,7 @@ p{
 }
 
 .footer{
+    padding-top: 1rem;
     text-align: center;
 }
 
@@ -156,3 +157,32 @@ p{
     background-color: #fff;
     padding: 30px 0px;
 }
+
+
+.table{
+    background-color: white;
+    padding: 5rem;
+     
+}
+.table table{
+    margin: auto;
+}
+td, th {
+  text-align: center;
+  vertical-align: middle;
+  padding: 1rem;
+}
+
+ 
+.navbar-frame{
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+.footer-frame{
+    height:5rem;
+    width: 100%;
+    border: none;
+}
+
